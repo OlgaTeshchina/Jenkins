@@ -4,13 +4,7 @@ import io.qameta.allure.junit4.DisplayName;
 import io.restassured.RestAssured;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.*;
-
 import static io.restassured.RestAssured.given;
-import io.*;
-import static org.hamcrest.Matchers.equalTo;
-
 
 public class Mesto1Test {
 
